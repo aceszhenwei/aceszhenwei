@@ -5,7 +5,7 @@
 - Studying **Computer Science** at National University of Singapore (NUS)
 - Proficient in Java, Python, C and Godot
 - Enthusiastic to work in the software engineering or computer security field in the future.
-- Adore playing board games and watching movies :tv: !
+- Adores playing board games and watching movies :tv: !
 
 ## What I Am Doing Now
 - Creating my first chatbot, [Duke](https://github.com/aceszhenwei/ip)
@@ -14,7 +14,7 @@
 
 ## Looking To
 - Collaborate on new projects / hackathons
-- Work with ***you*** on your ideas (hit me up)!
+- Work with ***you*** on new ideas (hit me up)!
 
 ## What I Have Done
 - Developed a tower defence game, ['Defence of the Earth'](https://github.com/aceszhenwei/Orbital-Project), via the Godot engine
