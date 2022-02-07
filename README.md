@@ -5,7 +5,7 @@
 - Studying **Computer Science** at National University of Singapore (NUS)
 - Proficient in Java, Python, C and Godot
 - Enthusiastic to work in the software engineering or computer security field in the future.
-- Adores playing board games and watching movies :tv: !
+- Adore playing board games and watching movies :tv: !
 
 ## What I Am Doing Now
 - Creating my first chatbot, [Duke](https://github.com/aceszhenwei/ip)
