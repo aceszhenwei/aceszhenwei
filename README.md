@@ -10,7 +10,7 @@
 ## What I Am Doing Now
 - Creating my first chatbot, [Duke](https://github.com/aceszhenwei/ip)
 - Working in a team in refining an address book for ISP technicans
-- Working on a [FrenchBot](https://github.com/aceszhenwei/FrenchBot), an assistance in learning French [I'm also learning some French :fr:]
+- Working on a [FrenchBot](https://github.com/aceszhenwei/FrenchBot), an assistant in learning French [I'm also learning some French :fr:]
 
 ## Looking To
 - Collaborate on new projects / hackathons
