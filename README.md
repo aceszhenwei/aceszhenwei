@@ -8,7 +8,6 @@
 - Adores playing board games and watching movies :tv: !
 
 ## What I Am Doing Now
-- Working in a team in refining an address book for ISP technicans, [Networkers](https://github.com/aceszhenwei/tp)
 - Working on a [FrenchBot](https://github.com/aceszhenwei/FrenchBot), an assistant in learning French [I'm also learning some French :fr:]
 
 ## Looking To
@@ -18,6 +17,7 @@
 ## What I Have Done
 - Developed an assistant chatbot that keeps tracks of user input tasks / deadlines: [Duke](https://github.com/aceszhenwei/ip)
 - Developed a tower defence game, ['Defence of the Earth'](https://github.com/aceszhenwei/Orbital-Project), via the Godot engine
+- Developed an address book for ISP technicians, [Networkers](https://github.com/aceszhenwei/tp)
 - Participated in [NUS Lifehack 2021](https://lifehack.nuscomputing.com/) and attended several workshops
 
 ## Contact Me
