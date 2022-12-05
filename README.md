@@ -3,18 +3,18 @@
 
 ## About Me
 - Studying **Computer Science** at National University of Singapore (NUS)
-- Proficient in Java, Python, C and Godot
+- Proficient in Java, Python, C and Javascript
+- Knowledgable in full-stack technologies (MERN).
+- Experience in hosting a website on Amazon Web Services
 - Enthusiastic to work in the software engineering or computer security field in the future.
 - Adores playing board games and watching movies :tv: !
-
-## What I Am Doing Now
-- Working on a [FrenchBot](https://github.com/aceszhenwei/FrenchBot), an assistant in learning French [I'm also learning some French :fr:]
 
 ## Looking To
 - Collaborate on new projects / hackathons
 - Work with ***you*** on new ideas (hit me up)!
 
 ## What I Have Done
+- Contributor and developer in [PeerPrep](https://github.com/CS3219-AY2223S1/cs3219-project-ay2223s1-g40), a web application that seeks to help students better prepare themselves for the highly challenging technical interviews.
 - Developed an assistant chatbot that keeps tracks of user input tasks / deadlines: [Duke](https://github.com/aceszhenwei/ip)
 - Developed a tower defence game, ['Defence of the Earth'](https://github.com/aceszhenwei/Orbital-Project), via the Godot engine
 - Developed an address book for ISP technicians, [Networkers](https://github.com/aceszhenwei/tp)
