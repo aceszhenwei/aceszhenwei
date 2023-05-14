@@ -15,7 +15,6 @@
 
 ## What I Have Done
 - Contributor and developer in [PeerPrep](https://github.com/CS3219-AY2223S1/cs3219-project-ay2223s1-g40), a web application that seeks to help students better prepare themselves for the highly challenging technical interviews.
-- Developed an assistant chatbot that keeps tracks of user input tasks / deadlines: [Duke](https://github.com/aceszhenwei/ip)
 - Developed a tower defence game, ['Defence of the Earth'](https://github.com/aceszhenwei/Orbital-Project), via the Godot engine
 - Developed an address book for ISP technicians, [Networkers](https://github.com/aceszhenwei/tp)
 - Participated in NUS Lifehack 2021 and attended several workshops
