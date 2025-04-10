@@ -1,5 +1,4 @@
 # Hi, I'm Alexander! 👋
-> “If you put your mind to it, you can accomplish anything.” Doc Brown [Back to the Future]
 
 ## About Me
 - One year of software engineering experience in Accenture.
